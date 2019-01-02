@@ -1,0 +1,79 @@
+/*  Autor: Jorge Tarascó
+    Fecha 2 / 1 / 19
+*/
+
+@charset "UTF-8";
+
+@font-face {
+    font-family: "Bops";
+    src: url("black-ops-one.woff");
+}
+
+p {
+    text-align: center;
+    font-family: "Bops", sans-serif;
+    font-size: 300%;
+}
+
+hr {
+    color: blue;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-bottom: solid blue 2px;
+}
+
+span {
+    font-size: 150px;
+}
+
+span.html5{
+    color: red;
+    float: left;
+    margin-left: 7%;
+}
+
+span.css{
+    color: red;
+    float: right;
+    margin-right: 7%;
+}
+
+span.linux {
+    color: darkblue;
+    margin: 1%;
+}
+
+span.apple {
+    color: lightgrey;
+    margin: 1%;
+}
+
+span.android {
+    color: green;
+    margin: 1%;
+}
+
+span.w10 {
+    color: skyblue;
+    margin: 1%;
+}
+
+span.fire {
+    color: brown;
+    margin: 1%;
+}
+
+span.chrome {
+    color: green;
+    margin: 1%;
+}
+
+span.ex {
+    color: blue;
+    margin: 1%;
+}
+
+span.smile {
+    color: red;
+    margin: 1%;
+}
